@@ -2,6 +2,7 @@
 
 markalar = ["toyata", "Bmw", "Renault", "Mercedes"]
 
+# 2- Liste kaç elemanlıdır?
 
 print(len(markalar))
 
